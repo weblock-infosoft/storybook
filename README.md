@@ -1,4 +1,4 @@
-# The Storybook Holy Grail
+# The Storybook
 Note:  In case you're new to Storybook. [Learn more here](https://storybook.js.org/)
 
 
